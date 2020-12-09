@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hukum mere aaka!"""
+    START_TEXT = """Hukum mere aaka !! 🙇🏿‍♂️"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -28,14 +28,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hi am URL Uploader bot..
-    
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
---------
+    HELP_USER = """Tum mujhe link do, mai tumhe file dunga.
 
 I am maintained by @vipingupta_1
 
