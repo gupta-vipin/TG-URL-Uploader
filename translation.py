@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hukum mere aaka :joy:"""
+    START_TEXT = """Hukum mere aaka!"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
