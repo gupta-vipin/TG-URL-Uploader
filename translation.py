@@ -35,13 +35,9 @@ Expires on: 31/12/2020"""
 3. Select the button.
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
-
 --------
-Send /me to know current plan details
+
+I am maintained by @vipingupta_1
 
 Movie Group : @thecinemajunkies"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
